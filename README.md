@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # emergency_prep_app
 <<<<<<< HEAD
 
@@ -19,3 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 survival_app
 ![splash](https://github.com/user-attachments/assets/82b81ea4-5d5f-4357-9fea-bffe06280726)
 >>>>>>> d2e2db745ef29dae701597effc04ec4fc277f96f
+=======
+
+>>>>>>> bf25253ce5d510e89222a94af688ee3be8c42f04
